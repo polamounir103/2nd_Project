@@ -83,9 +83,12 @@ header {
     margin-left: 4%;
     margin-right: 1%;
     position: relative;
+    margin-top: 15px;
+    /*
     top: 50%;
     left: 0%;
     transform: translate( 0% , -50%);
+    */
 }
 .header-tag {
     display: inline-block;
@@ -95,7 +98,7 @@ header {
     position: relative;
 }
 .header-tag:hover {
-    box-shadow: 3px 3px 10px  black;
+    box-shadow: 3px 3px 10px rgba(0, 0, 0, 0.551);
     transition: 0.3s;
     transition-delay: 0.5s;
 }
