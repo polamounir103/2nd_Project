@@ -203,11 +203,10 @@ header {
     text-decoration: none;
     text-align: center;
     color: rgb(0, 0, 0);
-    background-color: auto;
+    background-color: red;
     font-size: 1.5em;
     position: relative;
     padding: 2px 5px;
-    border-left: 0px solid #ed9b02;
     transition: 0.1s;
 }
 
